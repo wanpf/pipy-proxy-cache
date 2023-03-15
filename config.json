@@ -1,0 +1,9 @@
+{
+  "port": 8080,
+  "proxy_upstream": {
+    "domain": "registry.worker.liangyuanpeng.com",
+    "port": 443,
+    "scheme": "https"
+  },
+  "proxy_cache_ttl": 86400
+}
